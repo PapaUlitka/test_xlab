@@ -60,8 +60,8 @@
     <Compile Include="Assets\AlignedGames\Polygonal Foliage Asset Package\Scripts\Utility\FlyCameraBehaviour.cs" />
     <Compile Include="Assets\Scripts\MovingCloud.cs" />
     <Compile Include="Assets\Scripts\ChangeItems.cs" />
-    <Compile Include="Assets\Scripts\FreeCamera.cs" />
     <Compile Include="Assets\Scripts\ChangeItemsController.cs" />
+    <Compile Include="Assets\Scripts\FreeCamera.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AlignedGames\Polygonal Foliage Asset Package\Shaders\Cloud.shader" />

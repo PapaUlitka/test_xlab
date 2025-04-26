@@ -7,10 +7,11 @@ public class ChangeItems : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        for (int i = 1; i < tools.Length; ++i)
+        for (int i = 0; i < tools.Length; ++i)
         {
             tools[i].SetActive(false);
         }
+        ChangeItem();
     }
 
     // Update is called once per frame

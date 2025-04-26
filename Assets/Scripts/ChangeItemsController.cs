@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ChangeItemsController : MonoBehaviour
 {
-    private ChangeItems[] changes;
+    public ChangeItems[] changes;
 
     public void Change()
     {
