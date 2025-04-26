@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041E\u043B\u0435\u0433\\Gamedev projects\\test_xlab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1A5799-2085-F644-EBD6-3CD9E62F2E71}|Assembly-CSharp.csproj|c:\\users\\\u043E\u043B\u0435\u0433\\gamedev projects\\test_xlab\\assets\\scripts\\changeitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1A5799-2085-F644-EBD6-3CD9E62F2E71}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changeitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChangeItems.cs",
+              "DocumentMoniker": "C:\\Users\\\u041E\u043B\u0435\u0433\\Gamedev projects\\test_xlab\\Assets\\Scripts\\ChangeItems.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeItems.cs",
+              "ToolTip": "C:\\Users\\\u041E\u043B\u0435\u0433\\Gamedev projects\\test_xlab\\Assets\\Scripts\\ChangeItems.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T19:12:08.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
